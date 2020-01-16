@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+#fsbg {     
+	height: auto;
+	width:100%;
+	position: fixed;  
+	z-index: -100;   
+	left:0px;
+	top: 0px;
+	min-height: 100%;
+	min-width: 1040px;	
+}
+
+
+body {
+    font: normal 10px Verdana, Arial, sans-serif;
+}
+
+h1 {
+    font: normal 20px Avenir Next, sans-serif;
+}
+
+
+.need { 
+    text-align: centre; 
+	font-size: 200%;
+}
